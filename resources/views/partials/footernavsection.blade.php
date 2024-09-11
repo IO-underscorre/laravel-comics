@@ -14,7 +14,7 @@
                     <menu>
                         @foreach ($category['links'] as $link)
                             <li>
-                                <a href="link.url">
+                                <a href="#">
                                     {{ $link['menu_text'] }}
                                 </a>
                             </li>
