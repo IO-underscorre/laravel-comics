@@ -23,3 +23,19 @@ a {
     font-optical-sizing: auto;
     font-family: "Open Sans", sans-serif;
 }
+
+.visual-btn {
+    display: block;
+    padding: 1em .875rem;
+    color: $clr-brand-secondary;
+    border: .125rem solid $clr-brand-primary;
+    font-weight: 600;
+
+    &:hover {
+        background-color: $clr-brand-primary;
+    }
+
+    &:active {
+        filter: brightness(50%);
+    }
+}
