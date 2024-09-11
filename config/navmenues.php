@@ -43,4 +43,155 @@ return [
             "menu_text" => "SHOP",
         ],
     ],
+
+    "detailed_nav_categories" => [
+        [
+            "title" => "DC COMICS",
+            "links" => [
+                [
+                    "route_name" => "characters",
+                    "menu_text" => "Characters",
+                ],
+                [
+                    "route_name" => "comics",
+                    "menu_text" => "Comics",
+                ],
+                [
+                    "route_name" => "movies",
+                    "menu_text" => "Movies",
+                ],
+                [
+                    "route_name" => "tv",
+                    "menu_text" => "TV",
+                ],
+                [
+                    "route_name" => "games",
+                    "menu_text" => "Games",
+                ],
+                [
+                    "route_name" => "videos",
+                    "menu_text" => "Videos",
+                ],
+                [
+                    "route_name" => "news",
+                    "menu_text" => "NEWS",
+                ],
+            ],
+        ],
+        [
+            "title" => "SHOP",
+            "links" => [
+                [
+                    "route_name" => "shop",
+                    "menu_text" => "Shop DC",
+                ],
+                [
+                    "route_name" => "collectibles",
+                    "menu_text" => "Shop DC Collectibles",
+                ],
+            ],
+        ],
+        [
+            "title" => "DC",
+            "links" => [
+                [
+                    "route_name" => "",
+                    "menu_text" => "Terms Of Use",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "Privacy policy (New)",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "Ad Choices",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "Advertising",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "Jobs",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "Subscriptions",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "Talent Workshops",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "CPSC Certificates",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "Ratings",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "Shop Help",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "Contact Us",
+                ],
+            ],
+        ],
+        [
+            "title" => "SITES",
+            "links" => [
+                [
+                    "route_name" => "",
+                    "menu_text" => "DC",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "MAD Magazine",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "DC Kids",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "DC Universe",
+                ],
+                [
+                    "route_name" => "",
+                    "menu_text" => "DC Power Visa",
+                ],
+            ],
+        ],
+    ],
+
+    "social_links" => [
+        [
+            "url" => "#",
+            "menu_text" => "Facebook",
+            "menu_icon" => "facebook.png",
+        ],
+        [
+            "url" => "#",
+            "menu_text" => "Periscope",
+            "menu_icon" => "periscope.png",
+        ],
+        [
+            "url" => "#",
+            "menu_text" => "Pinterest",
+            "menu_icon" => "pinterest.png",
+        ],
+        [
+            "url" => "#",
+            "menu_text" => "Twitter",
+            "menu_icon" => "twitter.png",
+        ],
+        [
+            "url" => "#",
+            "menu_text" => "Youtube",
+            "menu_icon" => "youtube.png",
+        ],
+    ],
 ];
