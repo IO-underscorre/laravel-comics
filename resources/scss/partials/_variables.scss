@@ -1,15 +1,19 @@
 // Dimensions
-$hgt-topbar: 5rem;
+$hgt-topbar: 7.5rem;
+$hgt-footer-navigation: 25rem;
+$hgt-footer-socials: 7rem;
 
 $wdt-section-default: 90%;
-$wdt-section-l: 1600px;
-$wdt-section-m: 1400px;
-$wdt-section-s: 1200px;
+$wdt-section-max: 1300px;
 
 // Colors
-$clr-brand-primary: #000000;
-$clr-brand-secondary: #ff0000;
+$clr-text-lt: #ffffff;
+$clr-text: #959595;
+$clr-text-dk: #464646;
 
-$clr-background: #ffffff;
+$clr-brand-primary: #0282f9;
+$clr-brand-secondary: #ffffff;
 
-$clr-shadow: #00000080;
+$clr-neutral-lt: #ffffff;
+$clr-neutral-dk: #303030;
+$clr-neutral-dkr: #1c1c1c;

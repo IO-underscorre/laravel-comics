@@ -1,6 +1,6 @@
 @use './variables' as *;
 
-@mixin align-container($max_width: $wdt-section-m, $width: $wdt-section-default) {
+@mixin align-container($max_width: $wdt-section-max, $width: $wdt-section-default) {
     width: $width;
     max-width: $max_width;
     margin-left: auto;
