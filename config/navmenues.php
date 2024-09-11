@@ -44,6 +44,34 @@ return [
         ],
     ],
 
+    "comics_nav_links" => [
+        [
+            "route_name" => "",
+            "menu_text" => "DIGITAL COMICS",
+            "menu_icon" => "buy-comics-digital-comics.png",
+        ],
+        [
+            "route_name" => "",
+            "menu_text" => "DC MERCHANDISE",
+            "menu_icon" => "buy-comics-merchandise.png",
+        ],
+        [
+            "route_name" => "",
+            "menu_text" => "SUBSCRIPTION",
+            "menu_icon" => "buy-comics-subscriptions.png",
+        ],
+        [
+            "route_name" => "",
+            "menu_text" => "COMIC SHOP LOCATOR",
+            "menu_icon" => "buy-comics-shop-locator.png",
+        ],
+        [
+            "route_name" => "",
+            "menu_text" => "DC POWER VISA",
+            "menu_icon" => "buy-dc-power-visa.svg",
+        ],
+    ],
+
     "detailed_nav_categories" => [
         [
             "title" => "DC COMICS",

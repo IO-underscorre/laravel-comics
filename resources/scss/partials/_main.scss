@@ -4,3 +4,7 @@
 header {
     padding-top: $hgt-topbar;
 }
+
+main>section>* {
+    @include align-container;
+}
